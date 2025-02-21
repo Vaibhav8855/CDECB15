@@ -1,0 +1,22 @@
+ interview questions :
+
+1. What are the different types of users in Linux?  
+2. How do you create a new user in Linux?  
+3. How do you add a user to a group?  
+4. How do you list all users and groups in a Linux system?  
+5. How do you switch to another user account in Linux?  
+6. How do you lock and unlock a user account?  
+7. What is the difference between primary and secondary groups?  
+8. How do you create a new group in Linux?  
+9. How do you delete a user and their home directory?  
+10. What is the purpose of the `/etc/passwd`, `/etc/shadow`, and `/etc/group` files?  
+11. How do you change a user's password policy (e.g., expiration, minimum days)?  
+12. How do you find users with no password set?  
+13. How do you change a user's shell?  
+14. What is the difference between `sudo` and `su`?  
+15. How do you add an existing user to a new group and remove them from a group?  
+16. How do you change the ownership of a file or directory?  
+17. How do you set file permissions in Linux?  
+18. How do you delete a group?  
+19. How do you create a new user and assign them to a group in a single command?  
+20. What is the purpose of the `/etc/gshadow` file?  
