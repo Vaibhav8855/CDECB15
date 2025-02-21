@@ -149,5 +149,5 @@ gpasswd <option> <groupname>
 - `-A` : Assign a user as group admin
 
 ---
-This document provides essential commands for user and group management in Linux. You can add this to GitHub as a Markdown file (`user_group_management.md`) for easy reference.
+
 
